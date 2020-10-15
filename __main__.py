@@ -1,0 +1,1 @@
+import os; from dotenv import load_dotenv; load_dotenv(); import asyncio; import discord; from discord.ext import commands; bot = commands.Bot(command_prefix=">"); exec('@bot.event\nasync def on_ready():\n    print(f"Logged in as {bot.user} ({bot.user.id})\nCreated by fxcilities#4728")'); bot.run(os.getenv("token"))
