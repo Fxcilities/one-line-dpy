@@ -1,6 +1,15 @@
 # One Line Dpy
 A discord.py bot written in only one line.
 
+## Update, it is now slash commands, and it is `/rocket`
+
+### Before: 
+<img src="https://monke.cc/cDeKvbRO.png">
+
+### After:
+<img src="https://monke.cc/dqPfFqlN.png">
+
+## Old Readme:
 
 ### Bot Information
 
